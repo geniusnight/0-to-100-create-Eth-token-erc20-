@@ -17,6 +17,7 @@ A highly secure, gas-optimized, and fully compliant ERC20 smart contract impleme
 
 - **Smart Contracts:** Solidity ^0.8.27
 - **Development Environment:** Hardhat
+- **author:geniusnight
 - **Blockchain Interaction:** Ethers.js v6
 - **Language:** TypeScript / JavaScript
 
